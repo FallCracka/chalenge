@@ -1,0 +1,7 @@
+C:\Users\def\Source\Repos\крестики нолики 5\bin\Debug\крестики нолики 5.exe.config
+C:\Users\def\Source\Repos\крестики нолики 5\bin\Debug\крестики нолики 5.exe
+C:\Users\def\Source\Repos\крестики нолики 5\bin\Debug\крестики нолики 5.pdb
+C:\Users\def\Source\Repos\крестики нолики 5\obj\Debug\крестики нолики 5.csproj.AssemblyReference.cache
+C:\Users\def\Source\Repos\крестики нолики 5\obj\Debug\крестики нолики 5.csproj.CoreCompileInputs.cache
+C:\Users\def\Source\Repos\крестики нолики 5\obj\Debug\крестики нолики 5.exe
+C:\Users\def\Source\Repos\крестики нолики 5\obj\Debug\крестики нолики 5.pdb
