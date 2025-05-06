@@ -13,3 +13,5 @@ calculatator - https://github.com/FallCracka/chalenge/blob/main/calculat-main/RE
 циклы - https://github.com/FallCracka/chalenge/blob/main/циклы/README.md
 
 code-pen - https://github.com/FallCracka/chalenge/blob/main/code-pen/README.md
+
+блок-схема -
