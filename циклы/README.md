@@ -8,6 +8,21 @@
 
 ## .NET Framework 4.8 ##
 
+
+## 📚 Практические задания по циклам
+
+### Задания с решениями:
+
+[![Задание 1 - Основы циклов](https://img.shields.io/badge/Задание_1-Код_циклов-blue)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%201.cs)  
+[![Задание 2 - Вложенные циклы](https://img.shields.io/badge/Задание_2-Вложенные_циклы-green)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%202.cs)  
+[![Задание 3 - Управление циклами](https://img.shields.io/badge/Задание_3-Управление_циклами-yellow)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%203.cs)  
+[![Задание 4 - Практика циклов](https://img.shields.io/badge/Задание_4-Практика_циклов-red)](https://github.com/FallCracka/chalenge/blob/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%204.cs)  
+
+[![Текстовая новелла](https://img.shields.io/badge/Новелла-Интерактивная_история-purple)](https://github.com/FallCracka/chalenge/tree/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0)
+
+[![Вернуться к документации](https://img.shields.io/badge/⟵_Вернуться_к_README-документация-lightgrey)](https://github.com/FallCracka/chalenge/blob/main/README.md)
+
+
 Как использовать Запуск программы:
 
 Скомпилируйте и запустите программу в среде разработки, например, Visual Studio, или с помощью команды dotnet run в терминале (если проект настроен как .NET проект).
