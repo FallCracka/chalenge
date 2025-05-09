@@ -4,7 +4,7 @@
 
 ## calculatator ## - https://github.com/FallCracka/chalenge/blob/main/calculat-main/README.md
 ### Простой калькулятор с базовыми арифметическими операциями ###
-### Стек: C#, консольное приложение ###
+#### Стек: C#, консольное приложение ####
 
 ## крестики-нолики ## - https://github.com/FallCracka/chalenge/blob/main/крестики%20нолики/README.md
 Крестики-нолики для двух игроков
