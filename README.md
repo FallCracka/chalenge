@@ -63,11 +63,12 @@
   - Draw.io
 
 
-### 8. [Приложения Windows Forms](WindowsForms/)
-[![Открыть проекты](https://img.shields.io/badge/Проекты-Windows_Forms-blueviolet)](WindowsForms/)
-- Десктопные приложения с GUI
-- Используемые технологии:
-  - .NET Framework 4.8
+### 8. Разработка Windows Forms приложений
+
+**Технологический стек:**
+- .NET Framework 4.8
+- Windows Forms
+
 
 
 ---
