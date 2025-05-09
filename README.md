@@ -71,10 +71,8 @@
 - Draw.io
 - Экспорт в PNG/SVG
 
-### 8. [Windows Forms приложения](WindowsForms/README.md)
-[![Открыть README](https://img.shields.io/badge/Документация-Windows_Forms-blueviolet)](WindowsForms/README.md)
-**Описание:** Приложения с GUI.  
-**Технологии:**
+### 8. [Windows Forms приложения](WindowsForms/README.md) 
+**Стек технологии:**
 - Язык: C# (.NET Framework 4.8)
 - Windows Forms
 - Элементы управления
