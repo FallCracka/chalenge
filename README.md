@@ -12,6 +12,7 @@
 
 ### 1. [Консольный калькулятор](calculat-main/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Калькулятор-blue)](https://github.com/FallCracka/chalenge/tree/main/calculat-main)
+
 **Описание:** Приложение для выполнения базовых арифметических операций.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
@@ -33,6 +34,7 @@
 
 ### 3. [Работа с массивами](массивы/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Массивы-orange)](https://github.com/FallCracka/chalenge/tree/main/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B)
+
 **Описание:** Примеры операций с массивами.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
@@ -42,6 +44,7 @@
 
 ### 4. [Текстовая новелла](циклы/новелла/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Новелла-purple)](https://github.com/FallCracka/chalenge/tree/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B/%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0)
+
 **Описание:** Интерактивная история с выбором вариантов.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
@@ -51,6 +54,7 @@
 
 ### 5. [Примеры работы с циклами](циклы/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Циклы-yellow)](https://github.com/FallCracka/chalenge/tree/main/%D1%86%D0%B8%D0%BA%D0%BB%D1%8B)
+
 **Описание:** Демонстрация циклов в C#.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
@@ -60,6 +64,7 @@
 
 ### 6. [Задания CodeRun](code-pen/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-CodeRun-run)](https://github.com/FallCracka/chalenge/tree/main/code-run)
+
 **Описание:** Коллекция решенных задач.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
@@ -69,6 +74,7 @@
 
 ### 7. [Блок-схемы алгоритмов](блок-схемы/README.md)
 [![Открыть README](https://img.shields.io/badge/Документация-Блок--схемы-lightgrey)](блок-схемы/README.md)
+
 **Описание:** Визуализация алгоритмов.  
 **Инструменты:**
 - Draw.io
