@@ -5,7 +5,7 @@
 
 ## .NET Framework 4.8 ##
 
-[![Открыть КОД](https://github.com/FallCracka/chalenge/blob/main/calculat-main/Calculator.cs)
+[![Открыть код](https://img.shields.io/badge/Код-Калькулятор-blue)](https://github.com/FallCracka/chalenge/blob/main/calculat-main/Calculator.cs)
 
 Как использовать Запуск программы:
 
