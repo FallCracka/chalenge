@@ -1,8 +1,11 @@
+#Калькулятор 
 # Microsoft Visual Studio
 
 # Консольное приложение (.NET Framework)
 
 ## .NET Framework 4.8 ##
+
+[![Открыть код](https://github.com/FallCracka/chalenge/blob/main/calculat-main/Calculator.cs)
 
 Как использовать Запуск программы:
 
