@@ -9,7 +9,9 @@
 
 [![Открыть код калькулятора](https://img.shields.io/badge/Код-Калькулятор-blue)](https://github.com/FallCracka/chalenge/blob/main/calculat-main/Calculator.cs)  
 [![Вернуться к README](https://img.shields.io/badge/Документация-README-lightgrey)](https://github.com/FallCracka/chalenge/blob/main/README.md)
+
 Как использовать Запуск программы:
+
 
 Скомпилируйте и запустите программу в среде разработки, например, Visual Studio, или с помощью команды dotnet run в терминале (если проект настроен как .NET проект).
 
