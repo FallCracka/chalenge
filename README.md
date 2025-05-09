@@ -61,15 +61,14 @@
 - Визуальное представление алгоритмов
 - Создано в: 
   - Draw.io
-  - Visio
+
 
 ### 8. [Приложения Windows Forms](WindowsForms/)
 [![Открыть проекты](https://img.shields.io/badge/Проекты-Windows_Forms-blueviolet)](WindowsForms/)
 - Десктопные приложения с GUI
 - Используемые технологии:
   - .NET Framework 4.8
-  - ADO.NET
-  - Работа с базами данных
+
 
 ---
 
@@ -77,8 +76,7 @@
 
 ### Требования:
 - [Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/) (или новее)
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download)
-- Для работы с БД: [Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=54920)
+- [.NET 4.8 SDK](https://dotnet.microsoft.com/download)
 
 ### Инструкция:
 ```bash
