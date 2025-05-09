@@ -5,7 +5,6 @@
 
 ## .NET Framework 4.8 ##
 
-## .NET Framework 4.8 ##
 
 [![Открыть код калькулятора](https://img.shields.io/badge/Код-Калькулятор-blue)](https://github.com/FallCracka/chalenge/blob/main/calculat-main/Calculator.cs)  
 [![Вернуться к README](https://img.shields.io/badge/Документация-README-lightgrey)](https://github.com/FallCracka/chalenge/blob/main/README.md)
