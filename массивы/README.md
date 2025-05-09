@@ -4,7 +4,7 @@
 
 ## .NET Framework 4.8 ##
 
-[![Открыть код](https://img.shields.io/badge/Код-Массив)](https://github.com/FallCracka/chalenge/blob/main/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B/Program.cs)  
+[![Открыть код](https://img.shields.io/badge/Код-Массив-green)](https://github.com/FallCracka/chalenge/blob/main/%D0%BC%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B/Program.cs)  
 [![Вернуться к README](https://img.shields.io/badge/Документация-README-lightgrey)](https://github.com/FallCracka/chalenge/blob/main/README.md)
 
 
