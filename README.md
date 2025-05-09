@@ -20,7 +20,7 @@
 - Арифметические операции
 
 ### 2. [Игра "Крестики-нолики"](крестики%20нолики/README.md)
-[![Открыть README](https://img.shields.io/badge/Документация-Калькулятор-blue)](https://github.com/FallCracka/chalenge/tree/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8)
+[![Открыть README](https://img.shields.io/badge/Документация-Крестики-нолики-purple)](https://github.com/FallCracka/chalenge/tree/main/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8)
 **Описание:** Классическая игра для двух игроков.  
 **Технологии:**
 - Язык: C# (.NET Framework 4.8)
