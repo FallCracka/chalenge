@@ -8,6 +8,8 @@
 
 ### Решенные задания по программированию:
 
+[![← Назад к документации](https://img.shields.io/badge/←_Назад_к_документации-README-8A2BE2)](https://github.com/FallCracka/chalenge/blob/main/README.md)
+
 #### Задание 1: Базовые операции ввода/вывода
 [![Открыть код](https://img.shields.io/badge/Код-Задание_1-00599C?logo=csharp)](https://github.com/FallCracka/chalenge/blob/main/code-run/1.cs)  
 **Цель упражнения:**  
