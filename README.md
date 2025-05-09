@@ -77,7 +77,6 @@
 
 ### Требования:
 - [Visual Studio 2022](https://visualstudio.microsoft.com/ru/vs/) (или новее)
-- [.NET 4.8 SDK](https://dotnet.microsoft.com/download)
 
 ### Инструкция:
 ```bash
