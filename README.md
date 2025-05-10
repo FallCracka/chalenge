@@ -73,7 +73,7 @@
 - Условные конструкции
 
 ### 7. [Блок-схемы алгоритмов](блок-схемы/README.md)
-[![Открыть README](https://img.shields.io/badge/Документация-Блок--схемы-lightgrey)](блок-схемы/README.md)
+[![Открыть README](https://img.shields.io/badge/Документация-Блок--схемы-lightgrey)](https://github.com/FallCracka/chalenge/tree/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B)
 
 **Описание:** Визуализация алгоритмов.  
 **Инструменты:**
