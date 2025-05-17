@@ -14,7 +14,7 @@
 - B = 12  
 
 **Блок-схема:**  
-[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%201.png)  
+[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%201.png)  
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## ЗАДАНИЕ 3  
 **Блок-схема:**  
-[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%203.png)  
+[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203.png)  
 
 **Таблица результатов:**  
 | Вариант | a  | b  | c  | D   | Корни               |  
@@ -49,7 +49,7 @@
 
 ## ЗАДАНИЕ 4  
 **Блок-схема:**  
-[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%204.png)  
+[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%204.png)  
 
 **Таблица результатов:**  
 | x  | y  | Условие | z  |  
@@ -67,9 +67,9 @@
 
 ## ЗАДАНИЕ 5  
 **Блок-схемы:**  
-- [Вариант 1](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%205%20вариант%201.png)  
-- [Вариант 2](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%205%20вариант%202.png)  
-- [Вариант 3](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%205%20вариант%203.png)  
+- [Вариант 1](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%201.png)  
+- [Вариант 2](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%202.png)  
+- [Вариант 3](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%205%20%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%203.png)  
 
 ---
 
@@ -84,4 +84,4 @@
 
 ## ЗАДАНИЕ 7  
 **Блок-схема:**  
-[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/блок-схемы/задание%207.png)  
+[Ссылка на блок-схему](https://github.com/FallCracka/chalenge/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D1%8B/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%207.png)  
