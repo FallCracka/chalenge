@@ -6,8 +6,10 @@
 **Платформа**: .NET Framework 4.8  
 **Среда разработки**: Visual Studio  
 
-[Открыть код проводника](https://github.com/FallCracka/chalenge/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/Program.cs)  
-[Назад к документации](https://github.com/FallCracka/chalenge/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/Program.cs)    
+[![← Назад к документации](https://github.com/FallCracka/chalenge)
+
+#### Задание 1: Базовые операции ввода/вывода
+[![Открыть код](https://github.com/FallCracka/chalenge/blob/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA/Program.cs)   
 
 ---
 
