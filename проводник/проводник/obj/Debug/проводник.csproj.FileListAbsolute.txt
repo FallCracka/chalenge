@@ -1,0 +1,7 @@
+C:\Users\def\Desktop\иисус\проводник\проводник\bin\Debug\проводник.exe.config
+C:\Users\def\Desktop\иисус\проводник\проводник\bin\Debug\проводник.exe
+C:\Users\def\Desktop\иисус\проводник\проводник\bin\Debug\проводник.pdb
+C:\Users\def\Desktop\иисус\проводник\проводник\obj\Debug\проводник.csproj.AssemblyReference.cache
+C:\Users\def\Desktop\иисус\проводник\проводник\obj\Debug\проводник.csproj.CoreCompileInputs.cache
+C:\Users\def\Desktop\иисус\проводник\проводник\obj\Debug\проводник.exe
+C:\Users\def\Desktop\иисус\проводник\проводник\obj\Debug\проводник.pdb
