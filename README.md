@@ -78,11 +78,9 @@
 - Draw.io
 - Экспорт в PNG/SVG
 
-### 8. [Проводник](calculat-main/README.md) 🧮
+### 8. [Проводник](проводник/README.md) 🧮
 [![Открыть README](https://img.shields.io/badge/Документация-проводник-blue)]((https://github.com/FallCracka/chalenge/tree/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)
 
-[Задания проводник](проводник/README.md) 💻
-[![Открыть README](https://img.shields.io/badge/Документация-проводник-green)](https://github.com/FallCracka/chalenge/tree/main/%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)
 
 **Описание:** Коллекция решенных задач.  
 **Технологии:**
